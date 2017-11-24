@@ -1,0 +1,14 @@
+{
+  "name": "cipher",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "https://github.com/Pajk/cipher.git",
+  "scripts": {
+    "start": "ts-node example.ts"
+  },
+  "dependencies": {
+    "@types/node": "^8.0.53",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.6.1"
+  }
+}
