@@ -1,13 +1,13 @@
 ## Text Encryption
 
-Heavily inspired by [iocane](https://github.com/perry-mitchell/iocane) library. Check the project to get more info about the algoritm.
+Heavily inspired by [iocane](https://github.com/perry-mitchell/iocane) library. Check the project to get more info about the algorithm.
 
 ```
 npm i
 npm start
 ```
 
-Examle Output
+Example Output
 
 ```
 Plain: Secret data that I need to decrypt later, nothing like passwords.
